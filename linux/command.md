@@ -77,3 +77,12 @@ touch <file name>
 rm <filename>
 ```
 
+
+
+### commit
+
+- git add linux/command.md
+  - git status
+- git commit -m "add command.md"
+- git push origin master
+
