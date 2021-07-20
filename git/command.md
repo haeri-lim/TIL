@@ -63,7 +63,7 @@ git add <file name>
 git commit -m "commit message"
 ```
 
-### 
+
 
 
 
@@ -86,5 +86,23 @@ git remote add <nickname> <url>
 
 ```bash
 git push <nickname> <branch name>
+```
+
+
+
+##### clone
+
+```bash
+git clone [REPO_URL]
+```
+
+
+
+##### pull
+
+- 클론한 내용을 최신으로 받아온다.
+
+```bash
+git pull origin master
 ```
 
