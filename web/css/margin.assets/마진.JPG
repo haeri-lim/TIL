@@ -76,14 +76,14 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>TIL/breakpoints.JPG at master · haeri-lim/TIL · GitHub</title>
+  <title>TIL/마진.JPG at master · haeri-lim/TIL · GitHub</title>
     <meta name="description" content="Today I Learned. Contribute to haeri-lim/TIL development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
   <meta name="apple-itunes-app" content="app-id=1477376905" />
-    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/946a32bb8f5ff23187d1cca595b4dec76065bf1517e6dd4b7dc5e08172ea0cdf/haeri-lim/TIL" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="TIL/breakpoints.JPG at master · haeri-lim/TIL" /><meta name="twitter:description" content="Today I Learned. Contribute to haeri-lim/TIL development by creating an account on GitHub." />
-    <meta property="og:image" content="https://opengraph.githubassets.com/946a32bb8f5ff23187d1cca595b4dec76065bf1517e6dd4b7dc5e08172ea0cdf/haeri-lim/TIL" /><meta property="og:image:alt" content="Today I Learned. Contribute to haeri-lim/TIL development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="TIL/breakpoints.JPG at master · haeri-lim/TIL" /><meta property="og:url" content="https://github.com/haeri-lim/TIL" /><meta property="og:description" content="Today I Learned. Contribute to haeri-lim/TIL development by creating an account on GitHub." />
+    <meta name="twitter:image:src" content="https://opengraph.githubassets.com/946a32bb8f5ff23187d1cca595b4dec76065bf1517e6dd4b7dc5e08172ea0cdf/haeri-lim/TIL" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="TIL/마진.JPG at master · haeri-lim/TIL" /><meta name="twitter:description" content="Today I Learned. Contribute to haeri-lim/TIL development by creating an account on GitHub." />
+    <meta property="og:image" content="https://opengraph.githubassets.com/946a32bb8f5ff23187d1cca595b4dec76065bf1517e6dd4b7dc5e08172ea0cdf/haeri-lim/TIL" /><meta property="og:image:alt" content="Today I Learned. Contribute to haeri-lim/TIL development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="TIL/마진.JPG at master · haeri-lim/TIL" /><meta property="og:url" content="https://github.com/haeri-lim/TIL" /><meta property="og:description" content="Today I Learned. Contribute to haeri-lim/TIL development by creating an account on GitHub." />
 
 
 
@@ -92,7 +92,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="C0BE:3BA1:F4861:11C4BF:611ACBBF" data-pjax-transient="true"/><meta name="html-safe-nonce" content="c357cbf79c6057e69ee2088d6d4dfdf4da9fa96146175c2506bba1aabf16c0aa" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDMEJFOjNCQTE6RjQ4NjE6MTFDNEJGOjYxMUFDQkJGIiwidmlzaXRvcl9pZCI6Ijc1MDYzODc3ODg3ODkxMDc1NTMiLCJyZWdpb25fZWRnZSI6ImFwLW5vcnRoZWFzdC0yIiwicmVnaW9uX3JlbmRlciI6ImFwLW5vcnRoZWFzdC0yIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="4964b5483f507bccbb9a8135f0757cfc2e6363bdf8bfe2233df5600613d744f9" data-pjax-transient="true"/>
+  <meta name="request-id" content="CDCD:1F33:37F7BA:3FA234:611ACB7E" data-pjax-transient="true"/><meta name="html-safe-nonce" content="27be886b0183e33d9f5c0e3c101d3eecb39c1615bd31f5936b38e0f292af3240" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJDRENEOjFGMzM6MzdGN0JBOjNGQTIzNDo2MTFBQ0I3RSIsInZpc2l0b3JfaWQiOiI3NTA2Mzg3Nzg4Nzg5MTA3NTUzIiwicmVnaW9uX2VkZ2UiOiJhcC1ub3J0aGVhc3QtMiIsInJlZ2lvbl9yZW5kZXIiOiJhcC1ub3J0aGVhc3QtMiJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="e40214465adbe984a4c92abd03855cd871849502299081ecdaffa9b452039130" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:386126798" data-pjax-transient>
 
@@ -144,7 +144,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -195,7 +195,7 @@
         <div class="d-flex flex-items-center">
               <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo"
                 class="d-inline-block d-lg-none f5 color-text-white no-underline border color-border-tertiary rounded-2 px-2 py-1 mr-3 mr-sm-5"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="33b8d9782a61bf615a89fc36e09c4406ad9c1d0d031c9ff294340bb044496704"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5645807f4db192f0782361f7db35edbf8888b0c9eab6d5c8f12d9e8ceb0c28ae"
               >
                 Sign&nbsp;up
               </a>
@@ -349,7 +349,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="vYlkq5KGWgsPP2vHcXK1HN/1Sm3Pmq+oO3GlgH9KIMf/yLD1o2aFJNPeK8tWXdTcndN3X4bGJFXaPPUtcevxpg==" />
+        <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="8XgQStXq+C61ZxfNOkvtxf14bkl4fnuzeHbty/ntkS5XxsEb+sc36aqgTiIkvujhiwa/w12VAeqnJoSWgWIOUw==" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -505,9 +505,9 @@
           </div>
 
         <div class="position-relative mr-3 d-inline-block">
-          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fhaeri-lim%2FTIL%2Fblob%2Fmaster%2Fweb%2FBootstrap%2Fbreakpoints.JPG"
+          <a href="/login?return_to=https%3A%2F%2Fgithub.com%2Fhaeri-lim%2FTIL%2Fblob%2Fmaster%2Fweb%2Fcss%2F%25EB%25A7%2588%25EC%25A7%2584.JPG"
             class="HeaderMenu-link flex-shrink-0 no-underline"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4310eaac16f04915bb7a3313bf61c3dcfd51201877231855685101e68b989c8c"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8727606fec4bb7773cf9498b44ea567c8b1e237ed667a13f12491ac132d79463"
             data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
             Sign in
           </a>
@@ -515,8 +515,8 @@
 
             <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=haeri-lim%2FTIL"
               class="HeaderMenu-link flex-shrink-0 d-inline-block no-underline border color-border-tertiary rounded px-2 py-1"
-              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4310eaac16f04915bb7a3313bf61c3dcfd51201877231855685101e68b989c8c"
-              data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8eacd419bd097b3632dd7bd0cc5f62a639959ee255c7f3ce50ca09b393e64914"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8727606fec4bb7773cf9498b44ea567c8b1e237ed667a13f12491ac132d79463"
+              data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="429fc7f72f8309cc253e9c03270decaff45f40bd2463c93ce483a645c441632e"
             >
               Sign up
             </a>
@@ -602,7 +602,7 @@
           <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
 
   <li>
-      <a class="tooltipped tooltipped-s btn btn-sm" aria-label="You must be signed in to change notification settings" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f61914474f090b7558f6a9e14b0bcf268ee5ab85965a745a56847e24e5da6bce" href="/login?return_to=%2Fhaeri-lim%2FTIL">
+      <a class="tooltipped tooltipped-s btn btn-sm" aria-label="You must be signed in to change notification settings" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2e30d480ffe8d5e8fd574b0af286f7146f5426052fda718f8bbc646df4f7b3a1" href="/login?return_to=%2Fhaeri-lim%2FTIL">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell">
     <path d="M8 16a2 2 0 001.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 008 16z"></path><path fill-rule="evenodd" d="M8 1.5A3.5 3.5 0 004.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.018.018 0 00-.003.01l.001.006c0 .002.002.004.004.006a.017.017 0 00.006.004l.007.001h10.964l.007-.001a.016.016 0 00.006-.004.016.016 0 00.004-.006l.001-.007a.017.017 0 00-.003-.01l-1.703-2.554a1.75 1.75 0 01-.294-.97V5A3.5 3.5 0 008 1.5zM3 5a5 5 0 0110 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.518 1.518 0 0113.482 13H2.518a1.518 1.518 0 01-1.263-2.36l1.703-2.554A.25.25 0 003 7.947V5z"></path>
 </svg>
@@ -611,7 +611,7 @@
   </li>
 
   <li>
-          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:386126798,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="97ac48389702436b139a5c23e6646036cd0a477802ba2c778984b5cf3918d78c" href="/login?return_to=%2Fhaeri-lim%2FTIL">
+          <a class="btn btn-sm btn-with-count  tooltipped tooltipped-s" aria-label="You must be signed in to star a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:386126798,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ce202421ad30b09d89aa41a078ae89e0725e6e091ae0c53da6fa1a4568692201" href="/login?return_to=%2Fhaeri-lim%2FTIL">
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom mr-1">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg>
@@ -626,7 +626,7 @@
   </li>
 
   <li>
-        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:386126798,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="63c375109d521374d0478347c485e6150ffc4319dece5ccbd7e608df3b3d4364" href="/login?return_to=%2Fhaeri-lim%2FTIL">
+        <a class="btn btn-sm btn-with-count tooltipped tooltipped-s" aria-label="You must be signed in to fork a repository" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:386126798,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ae9e0080390532fcf56ccb826e05656d8394476fe195c367e512b4c6b08b14f3" href="/login?return_to=%2Fhaeri-lim%2FTIL">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>
@@ -789,9 +789,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/haeri-lim/TIL/blob/50554af78ac446fb3469b660abc1e8342020ed88/web/Bootstrap/breakpoints.JPG">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/haeri-lim/TIL/blob/50554af78ac446fb3469b660abc1e8342020ed88/web/css/%EB%A7%88%EC%A7%84.JPG">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:b8f6de4faa451cabaab92afea0af221bd947d9245171fadfa735970c72b65ae6 -->
+    <!-- blob contrib key: blob_contributors:v22:1c4f6b9ad26256c4eb0f44ea875f745847ad5afd475d38aa3863462198ed625f -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
       
@@ -876,7 +876,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/haeri-lim/TIL/blob/{{ urlEncodedRefName }}/web/Bootstrap/breakpoints.JPG" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/haeri-lim/TIL/blob/{{ urlEncodedRefName }}/web/css/%EB%A7%88%EC%A7%84.JPG" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -916,7 +916,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/haeri-lim/TIL/blob/{{ urlEncodedRefName }}/web/Bootstrap/breakpoints.JPG" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/haeri-lim/TIL/blob/{{ urlEncodedRefName }}/web/css/%EB%A7%88%EC%A7%84.JPG" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -947,7 +947,7 @@
 </div>
 
       <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/haeri-lim/TIL"><span>TIL</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/haeri-lim/TIL/tree/master/web"><span>web</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/haeri-lim/TIL/tree/master/web/Bootstrap"><span>Bootstrap</span></a></span><span class="separator">/</span><strong class="final-path">breakpoints.JPG</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/haeri-lim/TIL"><span>TIL</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/haeri-lim/TIL/tree/master/web"><span>web</span></a></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" href="/haeri-lim/TIL/tree/master/web/css"><span>css</span></a></span><span class="separator">/</span><strong class="final-path">마진.JPG</strong>
       </h2>
       <a href="/haeri-lim/TIL/find/master"
             class="js-pjax-capture-input btn mr-2 d-none d-md-block"
@@ -968,7 +968,7 @@
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
             <li class="d-block d-md-none">
-              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:386126798,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e9e7787bebf23dfb2d69c9d7ad4761deb1f7a612efe642bec9918f9054621c2b" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/haeri-lim/TIL/find/master">
+              <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:386126798,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="13614f96abd6597798b1d2ec522015d39eb6b37fda31604a31a40a4306814d7a" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/haeri-lim/TIL/find/master">
                 <span class="flex-auto">Go to file</span>
                 <span class="text-small color-text-secondary" aria-hidden="true">T</span>
 </a>            </li>
@@ -982,12 +982,12 @@
             </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
-              <clipboard-copy value="web/Bootstrap/breakpoints.JPG" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
+              <clipboard-copy value="web/css/마진.JPG" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details">
                 Copy path
               </clipboard-copy>
             </li>
             <li>
-              <clipboard-copy value="https://github.com/haeri-lim/TIL/blob/50554af78ac446fb3469b660abc1e8342020ed88/web/Bootstrap/breakpoints.JPG" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
+              <clipboard-copy value="https://github.com/haeri-lim/TIL/blob/50554af78ac446fb3469b660abc1e8342020ed88/web/css/%EB%A7%88%EC%A7%84.JPG" class="dropdown-item cursor-pointer" data-toggle-for="blob-more-options-details" >
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
                 </span>
@@ -1001,7 +1001,7 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/haeri-lim/TIL/contributors/master/web/Bootstrap/breakpoints.JPG" class="commit-loader">
+      <include-fragment src="/haeri-lim/TIL/contributors/master/web/css/%EB%A7%88%EC%A7%84.JPG" class="commit-loader">
         <div class="Box-header hx_commit-tease d-flex flex-items-center">
           <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
           <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -1032,13 +1032,13 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-    29.4 KB
+    88.9 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
 
     <div class="BtnGroup">
-      <a href="/haeri-lim/TIL/raw/master/web/Bootstrap/breakpoints.JPG" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
+      <a href="/haeri-lim/TIL/raw/master/web/css/%EB%A7%88%EC%A7%84.JPG" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
   
   Download
   
@@ -1057,7 +1057,7 @@
 </svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/haeri-lim/TIL/delete/master/web/Bootstrap/breakpoints.JPG" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="HZi23QMp5hco1jk1STZidubN8WIvkEX4s4xmaWVa9bGqR83A63TruhTvjfHiqW0SAry527dJ8SzNrxu2mxeRzw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/haeri-lim/TIL/delete/master/web/css/%EB%A7%88%EC%A7%84.JPG" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="by8rq9RgoEzJ5XWxt9Tkg6bLkyg8AJFQFJ6dWIzAWtG+8cAiM3hRQFr53aJvheholuVAUlyz4C5IlWyEiyxRuQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="You must be signed in to make or propose changes" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -1085,7 +1085,7 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/haeri-lim/TIL/raw/master/web/Bootstrap/breakpoints.JPG">
+            <a class="dropdown-item" href="/haeri-lim/TIL/raw/master/web/css/%EB%A7%88%EC%A7%84.JPG">
               Download
             </a>
           </li>
@@ -1100,7 +1100,7 @@
   <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text  gist-border-0">
 
       <div class="text-center p-3">
-          <span class="border-wrap"><img src="/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG?raw=true" alt="breakpoints.JPG"></span>
+          <span class="border-wrap"><img src="/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG?raw=true" alt="마진.JPG"></span>
       </div>
   </div>
 
@@ -1141,10 +1141,10 @@
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 color-text-secondary border-top color-border-secondary ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
       <li class="mr-3 mr-lg-0">&copy; 2021 GitHub, Inc.</li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="92642899311593dd60acdf0de7b9996c5ed08c0c6191064d144747ced8eb0cc8">Terms</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d7d98cefc2766149f73bfc0a2d17458f75c6c4be052050b25a981ff493b4187d">Privacy</a></li>
-        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e900461de1a5056721d8beec7e88f7da22b27aeaa5cea2d3a178712d7490aa10" href="https://github.com/security">Security</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3b4c5d78f80b1f64513a645b1a3795bb8f278692ecd65c6dd670ab8c3310cae4">Status</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="344c82018f1db74741093aa145a7327aa75270ed7d3f06074c0adcc065f3e20b">Terms</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a6b8075ccf6767dc272daf7c237fc75ed5eb70afc78831dcfeeeeade22c02fa3">Privacy</a></li>
+        <li class="mr-3 mr-lg-0"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ecb0e3fec32980929d65048b411937d88d23a5b4318bbc7d8a4e391da9d15725" href="https://github.com/security">Security</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="44b8cd624987a0d171abef59439d42df6a5a76af484d2b773fb9353165aab8de">Status</a></li>
         <li><a data-ga-click="Footer, go to help, text:Docs" href="https://docs.github.com">Docs</a></li>
     </ul>
 
@@ -1154,11 +1154,11 @@
 </svg>
 </a>
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
-        <li class="mr-3 mr-lg-0"><a href="https://support.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="149115a388a54d369045f0f691af74e3b7f95c5b74fecd042c1b97940cb9aac0">Contact GitHub</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="983c525a59c83f6dea939c97fb2e0328aa76a94af3a92cd8ba61c0d305f0ce55">Pricing</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="02a9599c44eed98a38b618e29d8f36ae4d8ea61a7b757046d27d56936faabb42">API</a></li>
-      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dd44688feb9b9c57daa6d7e605cc6b1774bcd9debf3022ea0c65ba6d8bc9335e">Training</a></li>
-        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d05ab0bce80bfec7d5e7899061b72b86fce0fde387609a51d5ca4c9e8eb4c6ff">Blog</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://support.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="02457faa195b5708a201946caa86a4a06e05c6dc8ae0131a3515b5f7a89ab6bd">Contact GitHub</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.com/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Pricing&quot;,&quot;label&quot;:&quot;text:Pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c5b19fb0a579c9bc6f6c4234962e14ecdb4da3deb229a57b2d160a15606d0330">Pricing</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dff8eab1e033fb1de7d25bafcf1afa9c4684c2f652ed4b49affbd91271e6d3ce">API</a></li>
+      <li class="mr-3 mr-lg-0"><a href="https://services.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to training&quot;,&quot;label&quot;:&quot;text:training&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="530759d397d0ad8b046a460cb5d5b5283edf3635bdac3d5f30764872844fae9d">Training</a></li>
+        <li class="mr-3 mr-lg-0"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/haeri-lim/TIL/blob/master/web/css/%EB%A7%88%EC%A7%84.JPG&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="47417afca40b711d79496d0a1481ac75c7ee4c3b725001e878b5f0efc0e4c315">Blog</a></li>
         <li><a data-ga-click="Footer, go to about, text:about" href="https://github.com/about">About</a></li>
     </ul>
   </div>

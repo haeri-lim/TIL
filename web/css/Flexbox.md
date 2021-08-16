@@ -1,6 +1,6 @@
 # Flexbox
 
-![flexbox](C:\Users\JIHYUN\TIL\web\css\flexbox.JPG)
+![flexbox](Flexbox.assets/flexbox.JPG)
 
 - 배치 방향 설정
   - flex- direction

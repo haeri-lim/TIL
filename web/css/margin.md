@@ -2,7 +2,7 @@
 
 
 
-![마진](C:\Users\JIHYUN\TIL\web\css\마진.JPG)
+![마진](margin.assets/마진.JPG)
 
 ### 																					시계방향!!
 
