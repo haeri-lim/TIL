@@ -6,5 +6,5 @@
 
 
 
-![breakpoints](Grid system.assets/breakpoints.JPG)
+![breakpoints](https://github.com/haeri-lim/TIL/blob/master/web/Bootstrap/breakpoints.JPG)
 

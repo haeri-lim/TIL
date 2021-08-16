@@ -1,6 +1,6 @@
 # Flexbox
 
-![flexbox](Flexbox.assets/flexbox.JPG)
+![flexbox](https://github.com/haeri-lim/TIL/blob/master/web/css/flexbox.JPG)
 
 - 배치 방향 설정
   - flex- direction
